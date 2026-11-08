@@ -1,5 +1,5 @@
 
-# Hey there! I'm Kauan Fernandes 👋
+# Hello there! I'm Kauan Fernandes 👋
 
 🎓 Computer Engineering Student  
 💻 Software Development | Web & Mobile
